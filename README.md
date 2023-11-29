@@ -23,7 +23,7 @@ Here are some of the projects I have worked on. Each of these projects has been 
   - **Profile Management**: Admins control user roles and platform access.
   - **Security**: Implemented CSRF protection for data and access security.
 - **Technologies Used**: Symfony (back-end), PHP, HTML, CSS (Bootstrap), MySQL with Doctrine ORM.
-- **Project Link** : https://github.com/WildCodeSchool/202302-orleans-php-project-makesense
+- **Project Link** : https://github.com/bugBuster42/202302-orleans-pMake-Sense-Associationhp-project-makesense
 
 
 ### Project 2: Website Redesign for AHLS Neighborhood Association
