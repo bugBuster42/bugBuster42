@@ -15,14 +15,6 @@ Here are some of the projects I have worked on. Each of these projects has been 
 
 - **Description**: Developed for Make Sense, an organization supporting citizen projects, this application facilitates internal idea sharing and voting. It enables employees to submit, view, and vote on ideas, streamlining the transformation of concepts into concrete projects.
 - **Technologies Used**: Symfony (back-end), PHP, HTML, CSS (Bootstrap), MySQL with Doctrine ORM.
-- **Key Features**:
-  - **Idea Submission**: Employees can propose their ideas.
-  - **Viewing and Voting**: Access and vote on submitted ideas.
-  - **Idea Progress Tracking**: Status updates from initial consideration to final decision.
-  - **Notifications**: Alerts for impacts on submitted ideas or expert nominations.
-  - **Category Management**: Admins can create and modify idea categories.
-  - **Profile Management**: Admins control user roles and platform access.
-  - **Security**: Implemented CSRF protection for data and access security.
 - **Project Link** : https://github.com/bugBuster42/Make-Sense-Association
 
 
@@ -45,7 +37,6 @@ Here are some of the projects I have worked on. Each of these projects has been 
 ### 💊 Codexial 
 
 - **Description**: Codexial is a project that was initially developed as a two-day solo exercise and will be continued as a personal project. It is envisioned as an application for pharmacy representatives to record daily sales of boxes in pharmacies. The application is also intended to include an admin panel for sales data review. Currently, not all desired functionalities are implemented or fully operational, but the project is set to evolve, with plans to enhance and expand its features in the future.
-
 - **Technologies Used**: Symfony (back-end), PHP, HTML, CSS (Bootstrap)
 - **Project Link** : https://github.com/bugBuster42/Codexial
 
