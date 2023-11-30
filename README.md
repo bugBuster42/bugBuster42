@@ -11,7 +11,7 @@ My name is Thomas Lavalade. I embarked on a journey of professional reconversion
 ## My Projects
 Here are some of the projects I have worked on. Each of these projects has been an opportunity for me to learn and practice my web development skills.
 
-### Make Sense Association
+### 💡 Make Sense Association
 
 - **Description**: Developed for Make Sense, an organization supporting citizen projects, this application facilitates internal idea sharing and voting. It enables employees to submit, view, and vote on ideas, streamlining the transformation of concepts into concrete projects.
 - **Technologies Used**: Symfony (back-end), PHP, HTML, CSS (Bootstrap), MySQL with Doctrine ORM.
@@ -26,20 +26,20 @@ Here are some of the projects I have worked on. Each of these projects has been 
 - **Project Link** : https://github.com/bugBuster42/Make-Sense-Association
 
 
-### AHLS Neighborhood Association
+### 🏘️ AHLS Neighborhood Association
 
 - **Description**: This project involved revamping the outdated website of the AHLS Neighborhood Association. The focus was on creating a modern, informative website to better serve the community and enhance the association's online presence.
 - **Technologies Used** : PhP, Twig, CSS
 - **Project Link** : https://github.com/bugBuster42/AHLS-Association
 
 
-### Star Wars Universe Explorer
+### 🚀 Star Wars Universe Explorer
 
 - **Description**: A web application to create an immersive experience for exploring the Star Wars universe. Users can discover characters, starships, planets, and species from the iconic franchise.
 - **Technologies Used**: React, Tailwind CSS, Star Wars API (SWAPI).
 - **Project Link** : https://github.com/bugBuster42/StarWars-Project
 
-### Codexial 
+### 💊 Codexial 
 
 - **Description**: Codexial is a project that was initially developed as a two-day solo exercise and will be continued as a personal project. It is envisioned as an application for pharmacy representatives to record daily sales of boxes in pharmacies. The application is also intended to include an admin panel for sales data review. Currently, not all desired functionalities are implemented or fully operational, but the project is set to evolve, with plans to enhance and expand its features in the future.
 
