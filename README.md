@@ -23,21 +23,21 @@ Here are some of the projects I have worked on. Each of these projects has been 
   - **Profile Management**: Admins control user roles and platform access.
   - **Security**: Implemented CSRF protection for data and access security.
 - **Technologies Used**: Symfony (back-end), PHP, HTML, CSS (Bootstrap), MySQL with Doctrine ORM.
-- **Project Link** : https://github.com/bugBuster42/202302-orleans-pMake-Sense-Associationhp-project-makesense
+- **Project Link** : https://github.com/bugBuster42/Make-Sense-Association
 
 
 ### Project 2: Website Redesign for AHLS Neighborhood Association
 
 - **Description**: This project involved revamping the outdated website of the AHLS Neighborhood Association. The focus was on creating a modern, informative website to better serve the community and enhance the association's online presence.
 - **Technologies Used** : PhP, Twig, CSS
-- **Project Link** : https://github.com/WildCodeSchool/202302-orleans-php-project2-ahls
+- **Project Link** : https://github.com/bugBuster42/AHLS-Association
 
 
 ### Project 3: Star Wars Universe Explorer
 
 - **Description**: A web application to create an immersive experience for exploring the Star Wars universe. Users can discover characters, starships, planets, and species from the iconic franchise.
 - **Technologies Used**: React, Tailwind CSS, Star Wars API (SWAPI).
-- **Project Link** : https://github.com/WildCodeSchool/2023-09-orleans-cda-projet1-groupe-c
+- **Project Link** : https://github.com/bugBuster42/StarWars-Project
 
 
 ## Contact Me
